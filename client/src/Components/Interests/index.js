@@ -83,7 +83,41 @@ function Interests() {
                     C
                 </summary>
                 <div>
-                    <a class="button">Default</a>
+                    <a class="button">Cabaret</a>
+                    <a class="button">Calligraphy</a>
+                    <a class="button">Camping</a>
+                    <a class="button">Candlemaking</a>
+                    <a class="button">Canoeing</a>
+                    <a class="button">Canyoning</a>
+                    <a class="button">Cards</a>
+                    <a class="button">Cartography</a>
+                    <a class="button">Cheerleading</a>
+                    <a class="button">Cheesemaking</a>
+                    <a class="button">Chess</a>
+                    <a class="button">Climbing</a>
+                    <a class="button">Coffee Roasting</a>
+                    <a class="button">Coins</a>
+                    <a class="button">Collecting</a>
+                    <a class="button">Color Guard</a>
+                    <a class="button">Color Theory</a>
+                    <a class="button">Coloring</a>
+                    <a class="button">Comic Books</a>
+                    <a class="button">Composting</a>
+                    <a class="button">Computational Thinking</a>
+                    <a class="button">Computer Programming</a>
+                    <a class="button">Computing</a>
+                    <a class="button">Confectionery</a>
+                    <a class="button">Cooking</a>
+                    <a class="button">Cosplaying</a>
+                    <a class="button">Couponing</a>
+                    <a class="button">Creative Writing</a>
+                    <a class="button">Cricket</a>
+                    <a class="button">Crocheting</a>
+                    <a class="button">Cross-Stitch</a>
+                    <a class="button">Crossword Puzzles</a>
+                    <a class="button">Cryptography</a>
+                    <a class="button">Curling</a>
+                    <a class="button">Cycling</a>
                 </div>
             </details>
 
