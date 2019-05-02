@@ -20,26 +20,26 @@ function Interests() {
                     A
                 </summary>
                 <div>
-                    <a class="button">Acrobatics</a>
-                    <a class="button">Acting</a>
-                    <a class="button">Action Figures</a>
-                    <a class="button">Air Sports</a>
-                    <a class="button">Aircrafts</a>
-                    <a class="button">Airsoft</a>
-                    <a class="button">Amateur Radio</a>
-                    <a class="button">American Football</a>
-                    <a class="button">Animation</a>
-                    <a class="button">Antiquing</a>
-                    <a class="button">Antiquities</a>
-                    <a class="button">Aquascaping</a>
-                    <a class="button">Archery</a>
-                    <a class="button">Art</a>
-                    <a class="button">Astrology</a>
-                    <a class="button">Astronomy</a>
-                    <a class="button">Astrophysics</a>
-                    <a class="button">Auto Racing</a>
-                    <a class="button">Automobiles</a>
-                    <a class="button">Aviation</a>
+                    <button class="button">Acrobatics</button>
+                    <button class="button">Acting</button>
+                    <button class="button">Action Figures</button>
+                    <button class="button">Air Sports</button>
+                    <button class="button">Aircrafts</button>
+                    <button class="button">Airsoft</button>
+                    <button class="button">Amateur Radio</button>
+                    <button class="button">American Football</button>
+                    <button class="button">Animation</button>
+                    <button class="button">Antiquing</button>
+                    <button class="button">Antiquities</button>
+                    <button class="button">Aquascaping</button>
+                    <button class="button">Archery</button>
+                    <button class="button">Art</button>
+                    <button class="button">Astrology</button>
+                    <button class="button">Astronomy</button>
+                    <button class="button">Astrophysics</button>
+                    <button class="button">Auto Racing</button>
+                    <button class="button">Automobiles</button>
+                    <button class="button">Aviation</button>
                 </div>
             </details>
 
@@ -48,33 +48,33 @@ function Interests() {
                     B
                 </summary>
                 <div>
-                    <a class="button">Backpacking</a>
-                    <a class="button">Badminton</a>
-                    <a class="button">Baking</a>
-                    <a class="button">Base Jumping</a>
-                    <a class="button">Baseball</a>
-                    <a class="button">Basketball</a>
-                    <a class="button">Baton Twirling</a>
-                    <a class="button">Beach Volleyball</a>
-                    <a class="button">Beatboxing</a>
-                    <a class="button">Beekeeping</a>
-                    <a class="button">Beer</a>
-                    <a class="button">Billiards</a>
-                    <a class="button">Birdwatching</a>
-                    <a class="button">Blacksmithing</a>
-                    <a class="button">Board Games</a>
-                    <a class="button">Board Sports</a>
-                    <a class="button">Bodybuilding</a>
-                    <a class="button">Book Restoration</a>
-                    <a class="button">Books</a>
-                    <a class="button">Bowling</a>
-                    <a class="button">Boxing</a>
-                    <a class="button">Brazilian Jiu-Jitsu</a>
-                    <a class="button">Breadmaking</a>
-                    <a class="button">Breakdancing</a>
-                    <a class="button">Brewing</a>
-                    <a class="button">Bridge</a>
-                    <a class="button">Butterfly Watching</a>
+                    <button class="button">Backpacking</button>
+                    <button class="button">Badminton</button>
+                    <button class="button">Baking</button>
+                    <button class="button">Base Jumping</button>
+                    <button class="button">Baseball</button>
+                    <button class="button">Basketball</button>
+                    <button class="button">Baton Twirling</button>
+                    <button class="button">Beach Volleyball</button>
+                    <button class="button">Beatboxing</button>
+                    <button class="button">Beekeeping</button>
+                    <button class="button">Beer</button>
+                    <button class="button">Billiards</button>
+                    <button class="button">Birdwatching</button>
+                    <button class="button">Blacksmithing</button>
+                    <button class="button">Board Games</button>
+                    <button class="button">Board Sports</button>
+                    <button class="button">Bodybuilding</button>
+                    <button class="button">Book Restoration</button>
+                    <button class="button">Books</button>
+                    <button class="button">Bowling</button>
+                    <button class="button">Boxing</button>
+                    <button class="button">Brazilian Jiu-Jitsu</button>
+                    <button class="button">Breadmaking</button>
+                    <button class="button">Breakdancing</button>
+                    <button class="button">Brewing</button>
+                    <button class="button">Bridge</button>
+                    <button class="button">Butterfly Watching</button>
                 </div>
             </details>
 
@@ -83,41 +83,41 @@ function Interests() {
                     C
                 </summary>
                 <div>
-                    <a class="button">Cabaret</a>
-                    <a class="button">Calligraphy</a>
-                    <a class="button">Camping</a>
-                    <a class="button">Candlemaking</a>
-                    <a class="button">Canoeing</a>
-                    <a class="button">Canyoning</a>
-                    <a class="button">Cards</a>
-                    <a class="button">Cartography</a>
-                    <a class="button">Cheerleading</a>
-                    <a class="button">Cheesemaking</a>
-                    <a class="button">Chess</a>
-                    <a class="button">Climbing</a>
-                    <a class="button">Coffee Roasting</a>
-                    <a class="button">Coins</a>
-                    <a class="button">Collecting</a>
-                    <a class="button">Color Guard</a>
-                    <a class="button">Color Theory</a>
-                    <a class="button">Coloring</a>
-                    <a class="button">Comic Books</a>
-                    <a class="button">Composting</a>
-                    <a class="button">Computational Thinking</a>
-                    <a class="button">Computer Programming</a>
-                    <a class="button">Computing</a>
-                    <a class="button">Confectionery</a>
-                    <a class="button">Cooking</a>
-                    <a class="button">Cosplaying</a>
-                    <a class="button">Couponing</a>
-                    <a class="button">Creative Writing</a>
-                    <a class="button">Cricket</a>
-                    <a class="button">Crocheting</a>
-                    <a class="button">Cross-Stitch</a>
-                    <a class="button">Crossword Puzzles</a>
-                    <a class="button">Cryptography</a>
-                    <a class="button">Curling</a>
-                    <a class="button">Cycling</a>
+                    <button class="button">Cabaret</button>
+                    <button class="button">Calligraphy</button>
+                    <button class="button">Camping</button>
+                    <button class="button">Candlemaking</button>
+                    <button class="button">Canoeing</button>
+                    <button class="button">Canyoning</button>
+                    <button class="button">Cards</button>
+                    <button class="button">Cartography</button>
+                    <button class="button">Cheerleading</button>
+                    <button class="button">Cheesemaking</button>
+                    <button class="button">Chess</button>
+                    <button class="button">Climbing</button>
+                    <button class="button">Coffee Roasting</button>
+                    <button class="button">Coins</button>
+                    <button class="button">Collecting</button>
+                    <button class="button">Color Guard</button>
+                    <button class="button">Color Theory</button>
+                    <button class="button">Coloring</button>
+                    <button class="button">Comic Books</button>
+                    <button class="button">Composting</button>
+                    <button class="button">Computational Thinking</button>
+                    <button class="button">Computer Programming</button>
+                    <button class="button">Computing</button>
+                    <button class="button">Confectionery</button>
+                    <button class="button">Cooking</button>
+                    <button class="button">Cosplaying</button>
+                    <button class="button">Couponing</button>
+                    <button class="button">Creative Writing</button>
+                    <button class="button">Cricket</button>
+                    <button class="button">Crocheting</button>
+                    <button class="button">Cross-Stitch</button>
+                    <button class="button">Crossword Puzzles</button>
+                    <button class="button">Cryptography</button>
+                    <button class="button">Curling</button>
+                    <button class="button">Cycling</button>
                 </div>
             </details>
 
@@ -126,7 +126,7 @@ function Interests() {
                     D
                 </summary>
                 <div>
-                    <a class="button">Default</a>
+                    <button class="button">Default</button>
                 </div>
             </details>
 
@@ -135,7 +135,7 @@ function Interests() {
                     E
                 </summary>
                 <div>
-                    <a class="button">Default</a>
+                    <button class="button">Default</button>
                 </div>
             </details>
 
@@ -144,7 +144,7 @@ function Interests() {
                     F
                 </summary>
                 <div>
-                    <a class="button">Default</a>
+                    <button class="button">Default</button>
                 </div>
             </details>
 
@@ -153,7 +153,7 @@ function Interests() {
                     G
                 </summary>
                 <div>
-                    <a class="button">Default</a>
+                    <button class="button">Default</button>
                 </div>
             </details>
 
@@ -162,7 +162,7 @@ function Interests() {
                     H
                 </summary>
                 <div>
-                    <a class="button">Default</a>
+                    <button class="button">Default</button>
                 </div>
             </details>
 
@@ -171,7 +171,7 @@ function Interests() {
                     I
                 </summary>
                 <div>
-                    <a class="button">Default</a>
+                    <button class="button">Default</button>
                 </div>
             </details>
 
@@ -180,7 +180,7 @@ function Interests() {
                     J
                 </summary>
                 <div>
-                    <a class="button">Default</a>
+                    <button class="button">Default</button>
                 </div>
             </details>
 
@@ -189,7 +189,7 @@ function Interests() {
                     K
                 </summary>
                 <div>
-                    <a class="button">Default</a>
+                    <button class="button">Default</button>
                 </div>
             </details>
 
@@ -198,7 +198,7 @@ function Interests() {
                     L
                 </summary>
                 <div>
-                    <a class="button">Default</a>
+                    <button class="button">Default</button>
                 </div>
             </details>
 
@@ -207,7 +207,7 @@ function Interests() {
                     M
                 </summary>
                 <div>
-                    <a class="button">Default</a>
+                    <button class="button">Default</button>
                 </div>
             </details>
 
@@ -216,7 +216,7 @@ function Interests() {
                     N
                 </summary>
                 <div>
-                    <a class="button">Default</a>
+                    <button class="button">Default</button>
                 </div>
             </details>
 
@@ -225,7 +225,7 @@ function Interests() {
                     O
                 </summary>
                 <div>
-                    <a class="button">Default</a>
+                    <button class="button">Default</button>
                 </div>
             </details>
 
@@ -234,7 +234,7 @@ function Interests() {
                     P
                 </summary>
                 <div>
-                    <a class="button">Default</a>
+                    <button class="button">Default</button>
                 </div>
             </details>
 
@@ -243,7 +243,7 @@ function Interests() {
                     Q
                 </summary>
                 <div>
-                    <a class="button">Default</a>
+                    <button class="button">Default</button>
                 </div>
             </details>
 
@@ -252,7 +252,7 @@ function Interests() {
                     R
                 </summary>
                 <div>
-                    <a class="button">Default</a>
+                    <button class="button">Default</button>
                 </div>
             </details>
 
@@ -261,7 +261,7 @@ function Interests() {
                     S
                 </summary>
                 <div>
-                    <a class="button">Default</a>
+                    <button class="button">Default</button>
                 </div>
             </details>
 
@@ -270,7 +270,7 @@ function Interests() {
                     T
                 </summary>
                 <div>
-                    <a class="button">Default</a>
+                    <button class="button">Default</button>
                 </div>
             </details>
            
