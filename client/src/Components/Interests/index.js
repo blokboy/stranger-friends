@@ -126,7 +126,20 @@ function Interests() {
                     D
                 </summary>
                 <div>
-                    <button class="button">Default</button>
+                    <button class="button">D-I-Y</button>
+                    <button class="button">Dance</button>
+                    <button class="button">Darts</button>
+                    <button class="button">Debate</button>
+                    <button class="button">Deltiology</button>
+                    <button class="button">Diecasting</button>
+                    <button class="button">Digital Art</button>
+                    <button class="button">Disc Golf</button>
+                    <button class="button">Distro Hopping</button>
+                    <button class="button">Dogs</button>
+                    <button class="button">Dowsing</button>
+                    <button class="button">Drama</button>
+                    <button class="button">Drawing</button>
+                    <button class="button">Driving</button>
                 </div>
             </details>
 
